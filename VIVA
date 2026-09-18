@@ -1,0 +1,20 @@
+Viva questions:
+1.	Steps to create branches in GIT Repository and merge the files of branches to Main branch?
+2.	Difference between PUSH and PULL commands in GIT?
+3.	What is the use of CHECKOUT, COMMIT commands in GIT?
+4.	Differences between HTML and CSS?
+5.	Explain IF statement with example in JavaScript?
+Viva Solutions:
+1.git branch branch-name
+  git checkout branch-name
+  git add .
+  git commit -m "first commit"
+  git checkout main
+  git merge branch-name
+2.PUSH sends changes from local repository to remote repository
+  PULL downloads latest changes from remote repository to local repository
+3.CHECKOUT
+  COMMIT
+4.HTML used for structure and content in webpage
+  CSS used for style
+5.IF statement executes a block of code if a statement is true
